@@ -40,3 +40,18 @@ lerna-debug.log*
 # Yarn
 .yarn/*
 !.yarn/releases
+
+# Editor
+.vscode/*
+!.vscode/launch.json
+!.vscode/*.code-snippets
++!.vscode/settings.json
++!.vscode/extensions.json
+
+.idea
+.DS_Store
++Thumbs.db
+
+# Env
+.env
++*.env.*

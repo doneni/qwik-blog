@@ -5,10 +5,8 @@ export default component$(() => {
     <>
       <section>
         <h1>🍰 Real Qwik Blog</h1>
-        <p>
-          Hi there! This is a simple blog built with Qwik.
-          You can document any thoughts, experiments, and lessons learned.
-        </p>
+        <p> Hi there! This is a simple blog built with Qwik. </p>
+        <p> You can document any thoughts, experiments, and lessons learned.</p>
       </section>
 
       <section>

@@ -18,6 +18,11 @@ export default component$(() => {
         </a>
         <br/>
         <a>🍓</a>
+        <a href="/projects" style={{ display: 'inline-block', marginTop: '1rem', fontWeight: 'bold' }}>
+          Projects
+        </a>
+        <br/>
+        <a>🍓</a>
         <a href="/about" style={{ display: 'inline-block', marginTop: '1rem', fontWeight: 'bold' }}>
           About
         </a>

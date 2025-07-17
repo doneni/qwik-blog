@@ -4,12 +4,12 @@ import Footer from '../components/Footer';
 
 export default component$(() => {
   return (
-    <>
+    <div class="layout">
       <Header />
-      <main class="p-8">
+      <main>
         <Slot />
       </main>
       <Footer />
-    </>
+    </div>
   );
 });

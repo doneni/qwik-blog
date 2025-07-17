@@ -4,7 +4,7 @@ export default component$(() => {
   return (
     <header
       style={{
-        backgroundColor: '#fbe8d3',
+        backgroundColor: '#fff1e6',
         padding: '1rem 2rem',
         borderBottom: '2px dashed #ff8fab',
         borderRadius: '0 0 1rem 1rem',

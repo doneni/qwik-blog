@@ -18,7 +18,7 @@ export default component$(() => {
 
   return (
     <>
-      <h1>📚 Blog Posts</h1>
+      <h1>🍓 Blog Posts</h1>
       <ul>
         {posts.map((post) => (
           <li key={post.slug} style={{ marginBottom: '2rem' }}>

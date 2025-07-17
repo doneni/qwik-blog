@@ -14,3 +14,27 @@ h1 {
   font-weight: bold;
   margin-bottom: 1rem;
 }
+
+body {
+  background-color: #fff5f7;
+  color: #4b2c3f;
+  font-family: 'Quicksand', 'Pretendard', sans-serif;
+}
+
+a {
+  color: #f06292;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #ff8fab;
+}
+
+section {
+  background: #fff1f1;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
